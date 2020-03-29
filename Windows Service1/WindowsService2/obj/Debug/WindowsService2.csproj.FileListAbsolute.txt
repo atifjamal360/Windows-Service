@@ -1,7 +1,0 @@
-C:\Users\Muhammad Atif Jamal\OneDrive\Documents\Visual Studio 2013\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.config
-C:\Users\Muhammad Atif Jamal\OneDrive\Documents\Visual Studio 2013\Projects\WindowsService2\WindowsService2\obj\Debug\WindowsService2.ProjectInstaller.resources
-C:\Users\Muhammad Atif Jamal\OneDrive\Documents\Visual Studio 2013\Projects\WindowsService2\WindowsService2\obj\Debug\WindowsService2.csproj.GenerateResource.Cache
-C:\Users\Muhammad Atif Jamal\OneDrive\Documents\Visual Studio 2013\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
-C:\Users\Muhammad Atif Jamal\OneDrive\Documents\Visual Studio 2013\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.pdb
-C:\Users\Muhammad Atif Jamal\OneDrive\Documents\Visual Studio 2013\Projects\WindowsService2\WindowsService2\obj\Debug\WindowsService2.exe
-C:\Users\Muhammad Atif Jamal\OneDrive\Documents\Visual Studio 2013\Projects\WindowsService2\WindowsService2\obj\Debug\WindowsService2.pdb
